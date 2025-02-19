@@ -1,0 +1,57 @@
+*{
+    color:rgb(231, 223, 209);
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav.barrainicio {
+    position: fixed;
+    z-index: 10;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding: 0 5%;
+    height: 70px;
+    background-color: rgb(4, 87, 87);
+}
+ul.list {
+    padding: 0;
+    margin: 0;
+    width: 90%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    text-transform: uppercase;
+}
+body {
+    background-image: url(./../asset/imagenes/fondo\ basquet\ negro.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div.filter {     
+    background-color: rgba(0, 0, 0 , 1.5);
+    width: 100%;
+    height: 100%;
+
+}
+button {
+    background-color: rgb(4, 87, 87);
+}
+
+h1{
+    font-size: 4rem;
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+    text-align: center;
+}
+p {
+    font-size: 1.5rem;
+}
+p.pie {
+    font-size: 1rem;
+}

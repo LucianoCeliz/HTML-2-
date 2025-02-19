@@ -1,0 +1,19 @@
+main{
+    margin-top: 70px;
+}
+ul.parrafo {
+    font-size: 1.5rem;
+    text-align: left;
+}
+h1{
+    height: 100vh;
+    width: 100%;
+}
+h2{
+    height: 100vh;
+    width: 100%;
+}
+h1.titulo {
+    text-align: center;
+    margin-top: 350px;
+}
